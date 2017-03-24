@@ -119,6 +119,9 @@ public class For {
 			for (int k = 1; k <= i; k++) {
 				System.out.print("* ");
 			}
+			for (int j = 0; j < array.length; j++) {
+				
+			}
 			System.out.println();
 			System.out.println();
 			System.out.println();
