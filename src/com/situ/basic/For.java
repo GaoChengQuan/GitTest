@@ -101,6 +101,10 @@ public class For {
 				System.out.print(j + "*" + i + "=" + (i * j) + "\t");
 			}
 			System.out.println();
+			for (int j = 0; j < 100; j++) {
+				
+			}
+			
 		}
 	}
 	
